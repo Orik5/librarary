@@ -1,0 +1,17 @@
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\dto\BookDto.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\service\BookService.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\repository\BookRepository.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\config\DataConfig.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\config\SwaggerConfig.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\contoller\BookController.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\config\WebInit.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\config\WebConfig.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\entity\Author.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\service\AuthorService.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\contoller\BaseController.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\config\RestConfiguration.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\dto\AuthorDto.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\service\impl\BookServiceImpl.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\repository\AuthorRepository.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\entity\Book.java
+D:\A\SpringApp\src\main\java\ua\lviv\dvoretskyi\service\impl\AuthorServiceImpl.java

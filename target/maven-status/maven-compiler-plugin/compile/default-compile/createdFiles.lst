@@ -1,0 +1,14 @@
+ua\lviv\dvoretskyi\repository\BookRepository.class
+ua\lviv\dvoretskyi\config\WebConfig.class
+ua\lviv\dvoretskyi\service\BookService.class
+ua\lviv\dvoretskyi\service\impl\AuthorServiceImpl.class
+ua\lviv\dvoretskyi\config\DataConfig.class
+ua\lviv\dvoretskyi\service\AuthorService.class
+ua\lviv\dvoretskyi\entity\Book.class
+ua\lviv\dvoretskyi\config\SwaggerConfig.class
+ua\lviv\dvoretskyi\repository\AuthorRepository.class
+ua\lviv\dvoretskyi\entity\Author.class
+ua\lviv\dvoretskyi\config\WebInit.class
+ua\lviv\dvoretskyi\service\impl\BookServiceImpl.class
+ua\lviv\dvoretskyi\config\RestConfiguration.class
+ua\lviv\dvoretskyi\contoller\BaseController.class
